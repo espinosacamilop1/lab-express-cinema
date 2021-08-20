@@ -1,0 +1,37 @@
+.main-div{
+    display: flex;
+    flex-direction: row;
+}
+
+.img-div{
+   margin-right: 40px;
+}
+
+.img-div img{
+    height: 325px;
+    width: 250px;
+}
+
+.info-div{
+    line-height: 20px;
+    width: 600px;
+}
+
+.hr-style{
+    background-color: black;
+    margin-top: 0;
+    margin-bottom: -1px;
+    margin-right: 4px;
+    margin-left: 1px;
+    width: 1px;
+    height: 10px;
+    display: inline-block;
+}
+
+.info-div li{
+    line-height: 5px;
+}
+
+.info-div ul{
+    padding-left: 18px;
+}
